@@ -1,5 +1,6 @@
 # Using Kodi on the Raspberry Pi
 
+Checkout https://www.kodiinfopark.com/kodi-raspberry-on-pi3-how-to-install/ for detailed and clear image step by step explanation
 Kodi is media centre software which runs on Raspberry Pi.
 
 ![LibreELEC](images/openelec.png)
